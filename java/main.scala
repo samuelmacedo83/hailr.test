@@ -5,3 +5,7 @@ object Main {
     "Hello, world! - From Scala"
   }
 }
+
+object CreateOption {
+  def none() : Option[String] = None
+}
